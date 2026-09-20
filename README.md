@@ -10,9 +10,7 @@
 I am interested in exploring how AI techniques can enhance software development, testing, verification, and intelligent programming systems.
 ---
 ## Research & Projects
-
 ### 🔹 SemanticVerify-Fuzz
-
 **Resource-Centered, Path-Sensitive Verification of API Protocol Violations in LLM-Generated Fuzz Drivers**
 
 A research project investigating reliable verification of LLM-generated fuzz drivers through:
@@ -50,15 +48,6 @@ A research project investigating reliable verification of LLM-generated fuzz dri
 - Software Testing
 - Automated Debugging
 - Software Systems
-
-### Tools & Platforms
-
-- Git / GitHub
-- Linux
-- Docker
-- VS Code
-- Jupyter Notebook
-
 ---
 
 ## Research Focus
